@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="User settings">
+        <EditTextPreference android:key="username" android:summary="Your jenkins username" android:title="User Name"/>
+        <EditTextPreference android:key="apikey" android:summary="Your jenkins API key" android:title="Jenkins API key"/>
+    </PreferenceCategory>
+
+    
+
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Jenkins Watcher</string>
+    <string name="app_name">TestBalls</string>
+    <string name="project1">hmwrk.info</string>
+    <string name="project2">zadane.pl</string>
+    <string name="update">Update project statuses</string>
+    <dimen name="regular_margin">5px</dimen>
+    <string name="no_cookie">Cookie not found</string>
+
+</resources>
